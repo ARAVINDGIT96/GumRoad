@@ -9,7 +9,7 @@ Follow these simple steps to set up and run the Gumroad project on your local ma
 Clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/rahul-misala/gumroad
+git clone [https://github.com/aravindgit96/gumroad](https://github.com/ARAVINDGIT96/GumRoad.git)
 ```
 
 If you're unable to clone it, download the ZIP file directly from GitHub, extract it, and open the extracted folder using **VS Code**.
@@ -40,7 +40,7 @@ gumroad
 Example:
 
 ```jsx
-const My_dirName = "C:\\Users\\rahul\\OneDrive\\Desktop\\gumroad\\frontend"7
+const My_dirName = "C:\\Users\\Dell\\OneDrive\\Desktop\\gumroad\\frontend"7
 ```
 
 ---
@@ -54,7 +54,7 @@ const My_dirName = "C:\\Users\\rahul\\OneDrive\\Desktop\\gumroad\\frontend"7
 Example:
 
 ```jsx
-const My_dirName = "C:\\Users\\rahul\\OneDrive\\Desktop\\gumroad\\frontend"
+const My_dirName = "C:\\Users\\Dell\\OneDrive\\Desktop\\gumroad\\frontend"
 ```
 
 ---
