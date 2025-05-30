@@ -27,7 +27,7 @@ gumroad
 ├── backend
 ├── frontend
 ```
-
+>     2.1 :- Replace the **MongoDB Atlas Database URI** ,what i give the sample URI
 ---
 
 ## ✅ Step 3: Set the `My_dirName` Path in `Fileupload.js`
