@@ -1,6 +1,7 @@
 const mongoose = require("mongoose");
 
-mongoose.connect("mongodb+srv://22311a6683:9640320230@cluster0.kwpkh9r.mongodb.net/Gumroad")
+mongoose.connect("MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/Gumroad
+")
 
 const userSchema = new mongoose.Schema({
     username: {
